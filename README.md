@@ -1,5 +1,5 @@
 
-# Nvidia CUDA 10 docker image
+# Nvidia CUDA 10.0 docker image
 
 run `download-anaconda.sh` to download Anaconda installation binary
 
